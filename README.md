@@ -2,7 +2,7 @@
 
 This project implements the classic game **Rock, Paper, Scissors** in C++ with added features such as **sound effects** (using the `Beep()` function) and **colorful feedback** (using `system("color")` for CMD).
 
-![Alt Text](https://ibb.co/D91mxLw)
+![Alt Text](https://i.ibb.co/9bpBFGy/d.png)
 
 ## Features:
 - The player can play multiple rounds of the game.
